@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5b9ecbd2-7cc3-497a-9346-09316f813258" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Class/Usuario.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class/Sql.php" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Sql.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class/Usuario.php" beforeDir="false" afterPath="$PROJECT_DIR$/Class/Usuario.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +53,7 @@
       <option name="presentableId" value="Default" />
       <updated>1628710203614</updated>
       <workItem from="1628710205161" duration="7689000" />
+      <workItem from="1628786070233" duration="1430000" />
     </task>
     <servers />
   </component>
@@ -70,5 +70,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
